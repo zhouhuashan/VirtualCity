@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  initialize.cpp
+  CTileTest.cpp
+  CTileRoadTest.cpp
+  CClickHistoryTest.cpp
+  CCityTest.cpp
+  Generating Code...
+     Creating library C:\Users\Cyndy\OneDrive\CSE335\Steps\Step4\City\Debug\Testing.lib and object C:\Users\Cyndy\OneDrive\CSE335\Steps\Step4\City\Debug\Testing.exp
+  Testing.vcxproj -> C:\Users\Cyndy\OneDrive\CSE335\Steps\Step4\City\Debug\Testing.dll
+  Testing.vcxproj -> C:\Users\Cyndy\OneDrive\CSE335\Steps\Step4\City\Debug\Testing.pdb (Full PDB)
